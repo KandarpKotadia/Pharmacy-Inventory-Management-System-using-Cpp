@@ -1,2 +1,2 @@
 # Pharmacy-Inventory-Management-System
-using c++
+A console based small application using c++
